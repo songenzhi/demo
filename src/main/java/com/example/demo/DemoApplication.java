@@ -22,7 +22,7 @@ public class DemoApplication {
         return "Application is running";
     }
 
-    public String getStatus2() {
+    public String getStatu1() {
         return "Application is running";
     }
 
