@@ -29,11 +29,11 @@ public class DemoApplication {
         return "D";
     }
 
-    public String getA() {
-        return "A";
+    public String getE() {
+        return "E";
     }
 
-    public String getB() {
-        return "B";
+    public String getF() {
+        return "F";
     }
 }
