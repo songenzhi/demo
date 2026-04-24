@@ -25,5 +25,8 @@ public class DemoApplication {
     public String getStatu1() {
         return "Application is running";
     }
+    public String getC() {
+        return "C";
+    }
 
 }
