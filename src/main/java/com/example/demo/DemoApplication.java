@@ -10,4 +10,16 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
     }
 
+    public void sayHello() {
+        System.out.println("Hello from Demo1Application!");
+    }
+
+    public int addNumbers(int a, int b) {
+        return a + b;
+    }
+
+    public String getStatus() {
+        return "Application is running";
+    }
+
 }
