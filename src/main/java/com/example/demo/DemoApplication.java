@@ -22,8 +22,12 @@ public class DemoApplication {
         return "Application is running";
     }
 
-    public String getStatu1() {
+    public String getStatus1() {
         return "Application is running";
+    }
+
+    public String getA() {
+        return "A";
     }
 
 }
